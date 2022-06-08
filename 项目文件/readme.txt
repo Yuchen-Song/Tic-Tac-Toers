@@ -1,0 +1,9 @@
+ui代表界面文件，h为应用的头文件，cpp为应用的执行文件
+其中，main文件代表主程序的执行入口
+mypushbutton代表自定义的按钮类
+mmainwindow文件代表初始化界面
+gameScence代表基础功能的实现以及界面描绘
+gameScence2代表拓展功能1的实现以及界面描绘
+difficulty代表人机对战难度选择的实现以及界面描绘
+gameScence3代表拓展功能2的实现以及界面描绘
+res以及图片是系统所用到的图片资源
